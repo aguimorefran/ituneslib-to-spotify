@@ -1,0 +1,5 @@
+eyeD3
+spotipy
+python-dotenv
+tqdm
+matplotlib
